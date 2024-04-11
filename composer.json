@@ -1,5 +1,5 @@
 {
-    "name": "joshgaber/novaunit",
+    "name": "henryavila/novaunit",
     "description": "Unit testing suite for Laravel Nova, built to extend PHPUnit",
     "version": "3.1.0",
     "keywords": [
